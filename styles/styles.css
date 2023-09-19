@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    border-style:solid;
+    border-color:black;
+    border-width:1px;
+    border-collapse: collapse;
+    text-align: left;
+    width: 25%;
+    border-spacing: none;
+    padding: 4px;
+}
+
+
+th {
+    background-color: lightgray;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+video {
+    width: 500px;
+}
